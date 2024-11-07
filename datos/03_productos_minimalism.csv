@@ -1,0 +1,21 @@
+,categoria,producto,color,precio (€),coste fabricacion (%),coste logistica y transporte (%),coste sueldos equipo + marketing + comunicacion (%),margen antes de impuestos (%)
+0,Sudadera,Sudadera algodón orgánico,Negra,55.0,44.0,13.0,38.0,5.0
+1,Sudadera,Sudadera algodón orgánico,Gris,55.0,44.0,13.0,38.0,5.0
+2,Sudadera,Sudadera algodón orgánico,Verde Oliva,55.0,44.0,13.0,38.0,5.0
+3,Sudadera,Sudadera algodón orgánico,Navy Blue,55.0,44.0,13.0,38.0,5.0
+4,Sudadera,Sudadera algodón orgánico,Lava Grey,55.0,44.0,13.0,38.0,5.0
+5,Sudadera,Sudadera algodón orgánico con capucha,Negra,65.0,44.0,13.0,38.0,5.0
+6,Sudadera,Sudadera algodón orgánico con capucha,Gris,65.0,44.0,13.0,38.0,5.0
+7,Sudadera,Sudadera algodón orgánico con capucha,Verde Oliva,65.0,44.0,13.0,38.0,5.0
+8,Sudadera,Sudadera algodón orgánico con capucha,Navy Blue,65.0,44.0,13.0,38.0,5.0
+9,Sudadera,Sudadera algodón orgánico con capucha,Lava Grey,65.0,44.0,13.0,38.0,5.0
+10,Jersey,Jersey de punto de lana merino reciclado con cremallera,Gris Vigore,80.0,44.0,13.0,38.0,5.0
+11,Jersey,Jersey de punto de lana merino reciclado con cremallera,Beige,80.0,44.0,13.0,38.0,5.0
+12,Jersey,Jersey de punto de lana merino reciclado con cremallera,Azul Marino,80.0,44.0,13.0,38.0,5.0
+13,Jersey,Jersey de punto de lana merino reciclado con cremallera,Verde,80.0,44.0,13.0,38.0,5.0
+14,Jersey,Jersey de punto fino de lana merino reciclado,Gris Vigore,75.0,44.0,13.0,38.0,5.0
+15,Jersey,Jersey de punto fino de lana merino reciclado,Beige,75.0,44.0,13.0,38.0,5.0
+16,Jersey,Jersey de punto fino de lana merino reciclado,Azul Marino,75.0,44.0,13.0,38.0,5.0
+17,Jersey,Jersey de punto fino de lana merino reciclado,Verde,75.0,44.0,13.0,38.0,5.0
+18,Jersey,Jersey lana merino reciclada,Gris,55.0,44.0,13.0,38.0,5.0
+19,Jersey,Jersey lana merino reciclada,Crudo,55.0,44.0,13.0,38.0,5.0
