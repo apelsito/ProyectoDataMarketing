@@ -1,3 +1,6 @@
+# Ignorar claves .env y un json
+datos/01_JSON/proyecto-hackiodatamarketing-50c293de9984.json
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
